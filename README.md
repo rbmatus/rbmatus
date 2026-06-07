@@ -1,6 +1,6 @@
 # Hi there, I'm Richard Briones Matus 👋
-## 📊 Data Analyst | 🇨🇱 Chile | 🥋 Jiujitsu Instructor
-### About Me
+# 📊 Data Analyst | 🇨🇱 Chile | 🥋 Jiujitsu Instructor
+## About Me
 Ingeniero Comercial con Master in Management que encontró su pasión en convertir datos en historias. Me muevo entre números y narrativas, buscando insights que generen impacto.
 Cuando no estoy analizando datos, estoy en el tatami como **instructor y cinturón morado de Jiu Jitsu Brasileño** — donde también se trata de leer patrones, adaptarse y resolver problemas.
 ---
